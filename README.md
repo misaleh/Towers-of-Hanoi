@@ -6,7 +6,7 @@
 
 **Output File:** main.bin
 
-To run, type `make`, then enter number of discs.
+To compile type `make`, to run type `.\main.bin` then enter number of discs.
 
 The code also outputs an array  called `tower3.element` that can be used for further processing.
  
