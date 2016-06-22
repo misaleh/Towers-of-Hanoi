@@ -7,7 +7,7 @@ char name[7] ;
 int *element ;
 } Tower;
 
-int SolveTower(unsigned int,Tower,Tower, Tower); // returns number of minimum moves , (number of discs , from , aux , dest)
+int SolveTower(unsigned int,Tower*,Tower*, Tower*); // returns number of  moves , (number of discs , from , aux , dest)
 
 
 #endif
